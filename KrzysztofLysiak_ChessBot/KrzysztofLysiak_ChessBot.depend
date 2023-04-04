@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1680594691 source:c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"item.hpp"
+	"listt.hpp"
+	"Chessboard.hpp"
+	"Pawns.hpp"
+
+1680594848 c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\chessboard.hpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"Pawns.hpp"
+	"listt.hpp"
+	"item.hpp"
+
+1680594921 c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\item.hpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+
+1680594831 c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\listt.hpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"Pawns.hpp"
+	"item.hpp"
+	"Chessboard.hpp"
+
+1680595250 c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\pawns.hpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"Chessboard.hpp"
+	"listt.hpp"
+	"item.hpp"
+
+1680594583 source:c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\item.cpp
+	"item.hpp"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+
+1680594582 source:c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\listt.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"listt.hpp"
+
+1680594580 source:c:\users\krzys\onedrive\pulpit\krzysztoflysiak_chessbot\pawns.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<cassert>
+	<conio.h>
+	"Pawns.hpp"
+
